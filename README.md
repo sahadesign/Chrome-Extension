@@ -1,11 +1,6 @@
 # Chrome-Extension
 
-Hello!
-
-I am back with another new project that I completed this week.
-This is about creating an extension to your chrome browser.
-
-This is how my tabs tracker looks. You can deploy it directly to your extensions.
+The URL or tabs tracker
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/77962951/179977044-2788d8d8-1e05-46b0-a652-00e7492cd516.png)
 
